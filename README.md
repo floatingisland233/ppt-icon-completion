@@ -55,7 +55,6 @@ python skills/ppt-icon-completion/scripts/rasterize_svg.py --icons-root assets/i
 |------|------|
 | `skills/ppt-icon-completion/` | Skill 本体（SKILL.md / scripts / builtin-icons / references） |
 | `docs/` | 设计方案与决议 |
-| `examples/build_slide_ro_report.py` | 示例建页脚本（演示如何挂接图标 PNG；非通用库） |
 
 ## 明确不包含
 
