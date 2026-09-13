@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / local
+.env
+*.pem
+.editppt/
+
+# Do NOT vend proprietary Anthropic skills
+.cursor/skills/presentations/
+.cursor/skills/pptx/
+**/presentations/LICENSE.txt
+
+# Local run artifacts / business assets (keep out of this skill repo)
+assets/icons/raw/
+assets/icons/colored/
+assets/icons/png/
+*.pptx
+*.ppt
+preview*.png
+input/
+output/
+_github_upload/

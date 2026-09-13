@@ -1,0 +1,15 @@
+{
+  "page_id": "page_001",
+  "source_image": "input/source_slide.jpg",
+  "icons": [
+    {
+      "id": "example_user",
+      "role": "process_step_icon",
+      "semantic": "用户",
+      "search_terms_zh": ["用户", "人物"],
+      "builtin_name": "user",
+      "theme_color_role": "process_blue",
+      "status": "missing"
+    }
+  ]
+}
